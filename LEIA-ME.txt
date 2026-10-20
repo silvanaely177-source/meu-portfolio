@@ -1,0 +1,13 @@
+PORTFÓLIO — INSTRUÇÕES
+
+1) Abra index.html no navegador para testar.
+2) Exporte do Figma as imagens com estes nomes e coloque na pasta imagens:
+   perfil.png, projeto-moda.png e projeto-viagens.png.
+   Enquanto não existirem, a foto mostrará NS e os cartões não terão miniaturas.
+3) No VS Code, use Ctrl+Shift+F e substitua todos os textos LINK_... pelos links reais.
+   Edite os arquivos index.html, sobre.html e projetos.html conforme necessário.
+4) Faça testes clicando nos botões e redimensionando a janela.
+5) Envie index.html, sobre.html, projetos.html, style.css e a pasta imagens para um repositório PÚBLICO no GitHub.
+6) Copie o link do repositório e envie pela plataforma +Robotic em Submissões.
+
+Observação: os links provisórios LINK_... não funcionam até serem substituídos. O GitHub já está configurado.
